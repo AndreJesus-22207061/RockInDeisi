@@ -2,7 +2,7 @@
 
 Projeto no âmbito da disciplina de Algoritmia e Estrutura de Dados 
 
-Criadores: Tomás Nave / André Jesus
+Criadores: André Jesus / Tomás Nave
 
 ![fotoProjAED](https://github.com/TomasNave-a22208623/Rock-in-Deisi/assets/127102331/18708929-8e5c-4745-a198-05febd56d604)
 
